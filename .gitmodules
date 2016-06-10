@@ -33,7 +33,7 @@
 	url = https://github.com/redhawksdr/framework-codegen.git
 [submodule "burstioInterfaces"]
 	path = redhawk/burstioInterfaces
-	url = git@github.com:RedhawkSDR/burstioInterfaces.git
+	url = https://github.com/redhawksdr/burstioInterfaces.git
 [submodule "redhawk-components/agc"]
 	path = redhawk-components/agc
 	url = https://github.com/redhawksdr/agc.git
